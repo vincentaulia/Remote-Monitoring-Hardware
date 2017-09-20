@@ -8954,12 +8954,7 @@ Select Switch</text>
 <approved hash="106,1,200.66,152.4,DIO12,,,,,"/>
 <approved hash="208,1,129.54,25.4,GND,sup,,,,"/>
 <approved hash="208,1,20.32,38.1,GND,sup,,,,"/>
-<approved hash="208,1,30.48,157.48,GND,sup,,,,"/>
-<approved hash="208,1,119.38,157.48,GND,sup,,,,"/>
-<approved hash="208,1,106.68,157.48,GND,sup,,,,"/>
-<approved hash="208,1,66.04,157.48,GND,sup,,,,"/>
-<approved hash="208,1,38.1,157.48,GND,sup,,,,"/>
-<approved hash="208,1,134.62,157.48,GND,sup,,,,"/>
+<approved hash="208,1,68.58,157.48,GND,sup,,,,"/>
 <approved hash="208,1,195.58,134.62,GND,sup,,,,"/>
 <approved hash="208,1,261.62,134.62,GND,sup,,,,"/>
 <approved hash="208,1,236.22,139.7,GND,out,,,,"/>
@@ -8970,8 +8965,8 @@ Select Switch</text>
 <approved hash="208,1,208.28,83.82,GND,sup,,,,"/>
 <approved hash="208,1,71.12,12.7,GND,sup,,,,"/>
 <approved hash="208,1,119.38,15.24,GND,sup,,,,"/>
+<approved hash="208,1,233.68,68.58,GND,sup,,,,"/>
 <approved hash="106,1,68.58,60.96,P1.0,,,,,"/>
-<approved hash="106,1,68.58,40.64,P2.2,,,,,"/>
 <approved hash="106,1,104.14,40.64,P2.3,,,,,"/>
 <approved hash="106,1,104.14,43.18,P2.4,,,,,"/>
 <approved hash="106,1,104.14,45.72,P2.5,,,,,"/>
@@ -8982,7 +8977,7 @@ Select Switch</text>
 <approved hash="209,1,236.22,149.86,RTS,,,,,"/>
 <approved hash="106,1,236.22,149.86,RTS,,,,,"/>
 <approved hash="113,1,139.596,107.846,FRAME1,,,,,"/>
-<approved hash="113,1,182.838,56.0747,J6,,,,,"/>
+<approved hash="113,1,182.838,50.9947,J6,,,,,"/>
 <approved hash="113,1,27.2627,170.248,J3,,,,,"/>
 <approved hash="113,1,131.403,167.708,J4,,,,,"/>
 <approved hash="113,1,32.3427,116.908,J5A,,,,,"/>
